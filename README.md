@@ -1,4 +1,3 @@
-# InsFollow
 
 Best Tool For Increase Instagram Follower.
 
@@ -26,8 +25,5 @@ Best Tool For Increase Instagram Follower.
 
 `$ bash my.sh`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/SAkFZJRaq0U
----
 
 
