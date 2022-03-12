@@ -17,13 +17,13 @@ Best Tool For Increase Instagram Follower.
 
 `$ git clone https://github.com/deepukchandran/done`
 
-`$ cd my`
+`$ cd done`
 
-`$ chmod +x my.sh`
+`$ chmod +x done.sh`
 
 `$ termux-wake-lock`
 
-`$ bash my.sh`
+`$ bash done.sh`
 
 
 
